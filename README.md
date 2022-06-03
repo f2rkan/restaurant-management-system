@@ -1,2 +1,2 @@
 # restaurant-management-system
-An example of a digital content platform that I created to reinforce the structures I learned in an object-oriented programming applications course at university. I do CRUD operations during login and registration and use MD5 encryption algorithm; I also preferred MySQL as database. Don't be eclipsed as an IDE.
+A project that I developed to reinforce the structures on JavaFX that I learned in the object-oriented programming applications course at university. I used MD5 encryption algorithm for Login and Register operations; I chose MySQL as database.
